@@ -3,7 +3,7 @@
 
 --------------------------------------------------------------
 HW2<br>
-Automatic snapshot script<br>
+ZFS Automatic snapshot script<br>
 Write a script such that whenever the script is invoked, it will take a snapshot for the dataset; in addition, it will only preserve the most recent 7 snapshots took by this scrip.<br>
 <br>
 crontab -l<br>
