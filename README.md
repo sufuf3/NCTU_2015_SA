@@ -24,7 +24,7 @@ Make in Bourne Shell<br>
   "q" pressed, go back to main menu.<br>
 * Resume<br>
   Can load previous saved game, and continue to play.<br>
-*Win Message<br>
+* Win Message<br>
   When 64 to win<br>
 * Save & Load Game<br>
   When you save game, you can load the previous game. And save and load last 5 Game.<br>
