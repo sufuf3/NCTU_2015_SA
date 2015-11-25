@@ -1,5 +1,6 @@
 # NCTU_2015_SA
 2015 NCTU System Administration Practice homework
+
 --------------------------------------------------------------
 HW3-3
 CLI GAME:2048 (https://gabrielecirulli.github.io/2048/)
@@ -14,4 +15,5 @@ Resume
 Can load previous saved game, and continue to play.
 Win Message
 When 64 to win
+
 --------------------------------------------------------------
