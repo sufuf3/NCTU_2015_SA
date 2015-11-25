@@ -1,5 +1,8 @@
 #!/bin/sh
 
+#It's a Bourne Shell Game. 
+#by sufuf3
+
 dialog --title "" --ok-label "Play a Game" --msgbox "Game 2048\n
      ____    _    __  __ _____  \n
     / ___|  / \  |  \/  | ____| \n
