@@ -18,7 +18,7 @@ CLI GAME:2048 (https://gabrielecirulli.github.io/2048/)<br>
 Make in Bourne Shell<br>
 
 New Game<br>
-&nbsp;	&nbsp New board with 2 random pieces. <br>
+&nbsp;	New board with 2 random pieces. <br>
 &nbsp;	Move pieces and merge with "WASD" pressed.<br>
 &nbsp;	After each move, a new piece(2, 4) randomly shows up.<br>
 &nbsp;  "q" pressed, go back to main menu.<br>
