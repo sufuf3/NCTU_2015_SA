@@ -9,9 +9,9 @@ Write a script such that whenever the script is invoked, it will take a snapshot
 crontab -l<br>
 00 00 * * 1 python /usr/home/sjfu/snapshot.py >> /var/log/sa_zfs.log<br>
 <br>
-file: zfs_snapshot.py
+file: zfs_snapshot.py<br>
 execute: python zfs_snapshot.py
-<br>
+
 --------------------------------------------------------------
 HW3-3 <br>
 CLI GAME:2048 (https://gabrielecirulli.github.io/2048/)<br>
@@ -27,7 +27,7 @@ Can load previous saved game, and continue to play.<br>
 Win Message<br>
 When 64 to win<br>
 <br>
-file: 2048.sh
+file: 2048.sh<br>
 execute: ./2048.sh
-<br>
+
 --------------------------------------------------------------
